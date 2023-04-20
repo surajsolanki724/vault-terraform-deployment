@@ -1,0 +1,7 @@
+app_secret_path = ""
+app_secret_policy_path = ""
+app_policy_name = ""
+app_approle_name = ""
+token_parameter_name = ""
+app_parameter_name = ""
+app_parameter_value = ""
